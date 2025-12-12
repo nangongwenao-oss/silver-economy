@@ -1,0 +1,7 @@
+{
+  "name": "SilverAgent",
+  "description": "A human-computer collaborative HR platform designed for the silver economy, empowering elderly users with AI agents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
